@@ -5,5 +5,5 @@
 [submodule "manby"]
 	path = manby
 	url = https://github.com/birkskyum/manby
-	branch = v0.2.3
+	branch = v0.2.4
 	subdir = r
